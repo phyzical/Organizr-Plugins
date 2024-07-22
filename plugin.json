@@ -3,16 +3,15 @@
     "repo": "https://github.com/phyzical/autoOrganizr",
     "author": "phyzical",
     "category": "Automation",
-    "description": "TODO",
-    "icon": "https://raw.githubusercontent.com/TehMuffinMoo/SonarrThrottling/main/logo.png",
-    "version": "0.0.1",
+    "description": "A Plugin to automatically create tabs based on docker labels",
+    "icon": "https://raw.githubusercontent.com/phyzical/autoOrganizr/main/logo.png",
+    "version": "0.0.2",
     "minimum_organizr_version": "2.1.1690",
-    "release_date": "2021-10-03",
-    "last_updated": "2024-03-24",
+    "release_date": "2024-07-20",
+    "last_updated": "2024-07-22",
     "github_folder": "root",
     "project_folder": "autoOrganizr",
     "license": "personal,business",
-    "images": {
-    }
+    "images": {}
   }
 }
